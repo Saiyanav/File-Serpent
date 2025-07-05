@@ -4,11 +4,9 @@ A simple Python utility to split and rejoin large files—ideal for transferring
 
 📌 **Features**
 
-    Split any file into smaller chunks
-
-    Rejoin chunks to restore the original file
-
-    Lightweight and dependency-free
+Split any file into smaller chunks
+Rejoin chunks to restore the original file
+Lightweight and dependency-free
 
 🛠️ **Requirements**
 
